@@ -1,1 +1,6 @@
-{ 	"version": "1.2", 	"versionCode": 12, 	"zipUrl": "https://github.com/ARKSAVE/czr_auto_backup/releases/download/czr_backup/_V1.2_12.zip", 	"changelog": "https://github.com/ARKSAVE/czr_auto_backup/releases/tag/czr_backup" }
+{
+  "version": "2.0",
+  "versionCode": 20,
+  "zipUrl": "https://github.com/ARKSAVE/czr_auto_backup/releases/download/2.0/default.zip",
+  "changelog": "https://raw.githubusercontent.com/ARKSAVE/czr_auto_backup/main/CHANGELOG.md"
+}
